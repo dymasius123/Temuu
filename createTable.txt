@@ -1,0 +1,39 @@
+npx sequelize model:generate --name User --attributes \
+first_name:string,\
+last_name:string,\
+role:string,\
+username:string,\
+phone_number:string,\
+password:string,\
+gender:string,\
+is_verified:boolean,\
+is_blocked:boolean,\
+type:string
+
+npx sequelize model:generate --name Interest --attributes \
+title:string,\
+description:string,\
+color:string,\
+icon:string
+
+npx sequelize model:generate --name Event --attributes \
+title:string,\
+description:string,\
+slug:string,\
+sector:string,\
+interest:integer,\
+purpose:string,\
+gender_type:string,\
+is_business:boolean,\
+long:string,\
+lat:string,\
+location:string,\
+fee:integer,\
+is_verified:boolean,\
+is_public:boolean,\
+phase:string
+
+npx sequelize model:generate --name History --attributes \
+timestamp:date,\
+user_id:integer,\
+event_id:integer

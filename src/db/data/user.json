@@ -1,0 +1,22 @@
+[
+    {
+      "first_name": "dym",
+      "last_name": "last",
+      "role": "creator",
+      "username": "user1",
+      "phone_number": "081233454678",
+      "password": "user1",
+      "gender": "male",
+      "type": "member"
+    },
+    {
+      "first_name": "farhan",
+      "last_name": "last",
+      "role": "member",
+      "username": "user2",
+      "phone_number": "081233454678",
+      "password": "user2",
+      "gender": "male",
+      "type": "member"
+    }
+]

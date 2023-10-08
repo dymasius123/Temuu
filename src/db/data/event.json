@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Friday night basket",
+    "description": "main santai asal keringet",
+    "sector": "jakarta pusat",
+    "interest": 1,
+    "purpose": "olahraga",
+    "gender_type": "L",
+    "is_business": false,
+    "long": "-6.260615704619379",
+    "lat": "106.78165085185492",
+    "location": "Jalan Arteri Pondok Indah, Kebayoran Lama Selatan, Kota Jakarta Selatan, 12240,Kecamatan Kebayoran Lama, Kota Jakarta Selatan",
+    "fee": 35000,
+    "phase": "booking"
+  }
+]
